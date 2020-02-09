@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8069c6d4-f170-4103-b3b2-8e0534bf84b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X0poeR2mp1yT2fUq9FIqDv4Awz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="aggregator" />
+      <option name="PROGRAM_PARAMETERS" value="http://homework.ad-juster.com/api/creatives" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8069c6d4-f170-4103-b3b2-8e0534bf84b9" name="Default Changelist" comment="" />
+      <created>1580193042556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580193042556</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="329" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580238451248">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="329" y="346" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.873@0.23.1440.873" timestamp="1580238451248" />
+    <state width="1183" height="376" key="GridCell.Tab.0.bottom" timestamp="1580314740713">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1183" height="376" key="GridCell.Tab.0.bottom/0.23.1440.873@0.23.1440.873" timestamp="1580314740713" />
+    <state width="1183" height="376" key="GridCell.Tab.0.center" timestamp="1580314740712">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1183" height="376" key="GridCell.Tab.0.center/0.23.1440.873@0.23.1440.873" timestamp="1580314740712" />
+    <state width="1183" height="376" key="GridCell.Tab.0.left" timestamp="1580314740711">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1183" height="376" key="GridCell.Tab.0.left/0.23.1440.873@0.23.1440.873" timestamp="1580314740711" />
+    <state width="1183" height="376" key="GridCell.Tab.0.right" timestamp="1580314740713">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1183" height="376" key="GridCell.Tab.0.right/0.23.1440.873@0.23.1440.873" timestamp="1580314740713" />
+    <state x="165" y="23" key="SettingsEditor" timestamp="1580238553623">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="165" y="23" key="SettingsEditor/0.23.1440.873@0.23.1440.873" timestamp="1580238553623" />
+    <state x="389" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1580313526414">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="389" y="272" key="com.intellij.ide.util.TipDialog/0.23.1440.873@0.23.1440.873" timestamp="1580313526414" />
+  </component>
+</project>
